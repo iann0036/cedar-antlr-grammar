@@ -65,7 +65,7 @@ fragment ESC
    ;
 
 fragment ESCWITHASTERIX
-   : '\\' (["\\/bfnrt] | UNICODE)
+   : '\\' (["\\/bfnrt*] | UNICODE)
    ;
 
 fragment UNICODE
