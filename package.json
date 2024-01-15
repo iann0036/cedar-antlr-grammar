@@ -1,0 +1,23 @@
+{
+  "name": "cedar-antlr-grammar",
+  "version": "0.0.1",
+  "description": "An ANTLR grammar for the Cedar policy language",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iann0036/cedar-antlr-grammar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iann0036/cedar-antlr-grammar/issues"
+  },
+  "homepage": "https://github.com/iann0036/cedar-antlr-grammar#readme",
+  "dependencies": {
+    "antlr4": "^4.13.1-patch-1"
+  }
+}
